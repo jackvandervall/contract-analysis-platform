@@ -2,10 +2,6 @@
 
 > **Note:** This repository serves as a technical showcase for a proprietary application. Due to NDA and IP restrictions, the source code is not public.
 
-![Status](https://img.shields.io/badge/Status-Production-success)
-![Stack](https://img.shields.io/badge/Stack-React_|_Supabase_|_n8n-blue)
-![Focus](https://img.shields.io/badge/Focus-AI_Agents_&_Compliance-purple)
-
 ## Description
 
 Showcasing a specialized, internal AI system designed to automate the analysis and comparison of complex business documents (quotes, contracts, NDAs). Acting like a domain expert, this platform will validate incoming documents against:
